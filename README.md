@@ -1,9 +1,10 @@
 django-intro
 ============
 
-An introduction to django - your first django web app!
+This is a introduction to django - your first django web app!
 
-Follow the instructions carefully.
+Follow the instructions carefully. And always use virtual environment while working on django.
+
 
 This afternoon, we hopefully are going to launch this to the World Wide Web
 using heroku!
