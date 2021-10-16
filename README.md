@@ -1,7 +1,7 @@
 django-intro
 ============
 
-An introduction to django - your first django web app!
+An introduction to django -It is your first django web app!Let's dive into the backend framework.
 
 Follow the instructions carefully.
 
